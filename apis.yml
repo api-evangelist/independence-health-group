@@ -1,0 +1,39 @@
+aid: independence-health-group
+url: https://raw.githubusercontent.com/api-evangelist/independence-health-group/refs/heads/main/apis.yml
+name: Independence Health Group
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Healthcare
+  - Health Insurance
+  - Holding Company
+  - Insurance
+  - Managed Care
+description: >-
+  Independence Health Group is the Philadelphia-headquartered parent holding
+  company of Independence Blue Cross (the Blue Cross and Blue Shield licensee
+  for southeastern Pennsylvania), AmeriHealth Administrators (a national
+  third-party benefits administrator), and AmeriHealth New Jersey. Through its
+  subsidiaries the group serves approximately seven million members and is one
+  of the largest health insurers in the Philadelphia region. Independence
+  Health Group itself does not publish a developer portal or APIs; all
+  CMS Interoperability and Patient Access surfaces are operated by the
+  subsidiary plans (notably Independence Blue Cross and AmeriHealth New Jersey).
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.independencehealthgroup.com/
+  - type: Subsidiary
+    url: https://www.ibx.com/
+  - type: Subsidiary
+    url: https://www.amerihealth.com/
+  - type: Subsidiary
+    url: https://www.amerihealthadministrators.com/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/independence-health-group
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
