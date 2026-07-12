@@ -24,6 +24,8 @@ modified: '2026-05-23'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/independence-health-group-domain-security.yml
   - type: Website
     url: https://www.independencehealthgroup.com/
   - type: Subsidiary
@@ -34,6 +36,8 @@ common:
     url: https://www.amerihealthadministrators.com/
   - type: LinkedIn
     url: https://www.linkedin.com/company/independence-health-group
+  - type: Blog
+    url: https://news.ibx.com/feed/
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
