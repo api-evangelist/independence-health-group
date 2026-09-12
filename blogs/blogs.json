@@ -2,20 +2,18 @@
   "repo": "independence-health-group",
   "feeds": [
     {
+      "source": "https://www.linkedin.com/company/independence-health-group",
+      "error": "HTTPError"
+    },
+    {
       "source": "https://news.ibx.com/feed/",
       "feed_url": "https://news.ibx.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "none",
-      "nature": "undetermined",
-      "nature_basis": null
-    },
-    {
-      "source": "https://www.linkedin.com/company/independence-health-group",
-      "error": "HTTPError"
+      "method": "none"
     }
   ],
-  "fetched": "2026-08-30T22:33:40Z",
+  "fetched": "2026-09-06T19:17:18Z",
   "post_count": 18,
   "feed_nature": "undetermined",
   "feed_nature_basis": null,
